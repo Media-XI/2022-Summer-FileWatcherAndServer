@@ -1,0 +1,28 @@
+
+`	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(ˆ·°Èýÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ð›¸ßúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓöÄŽùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØÏœˆÿÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(µÍ®¯ùÿÿÿÿ
+V
+java:S18549"@Remove this useless assignment to local variable "absolutePath".(ñ…©û
+<
+java:S1075/"&Remove this hard-coded path-delimiter.(§Šè­
+<
+java:S1075/"&Remove this hard-coded path-delimiter.(§Šè­
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ªƒÛÓûÿÿÿÿ
+G
+java:S14819"1Remove this unused "absolutePath" local variable.(ñ…©û
+N	java:S106="9Replace this use of System.out or System.err by a logger.(†±¾œ
+L
+java:S2696="6Make the enclosing method "static" or remove this set.(†±¾œ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(»»á¯øÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(äõŒ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¾ß˜¥úÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(€¼Óüÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(„Ïäó
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(•ÿÌâþÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(ÇÞŠ¬
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
